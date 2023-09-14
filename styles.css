@@ -1,1 +1,46 @@
 /*  your css code here. If applicable */
+		h1, h2 {
+            text-align: center;
+        }
+
+        .middle {
+            text-align: center;
+            vertical-align: middle;
+        }
+
+        .center {
+            text-align: center;
+        }
+
+        .right {
+            text-align: right;
+        }
+
+        table {
+            border: 1px solid black;
+            border-spacing: 1px;
+            border-collapse: separate;
+            width: 70%;
+            padding: 1px;
+        }
+
+        td {
+            padding: 1px;
+            border: 1px solid black;
+            height: 25px;
+            width: 50px;
+        }
+
+        .green {
+            background-color: green;
+        }
+
+        .image {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .blue {
+            background-color: blue;
+        }
